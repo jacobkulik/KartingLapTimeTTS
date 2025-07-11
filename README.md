@@ -15,7 +15,7 @@ NOTE: This is my own project that I did not intend to release so it might be pro
 
 ### Download and setup ffmpeg (REQUIRED)
 
-!! The exe is not included due to the potential for malware to be disturbuted. Do not run random exes on peoples GitHub projects !!
+** The exe is not included due to the potential for malware to be disturbuted. Do not run random exes on peoples GitHub projects **
 
 Download ffmpeg https://ffmpeg.org/download.html and drag the executable into the same directory as the script **or it will not work**
 
